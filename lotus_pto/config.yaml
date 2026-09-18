@@ -1,0 +1,282 @@
+DEFAULT: 
+  camera_config: &default_camera_settings # See camera_variables.md documentation
+      # Image format settings
+      Width: 3548
+      Height: 3548
+      OffsetX: 0 
+      OffsetY: 4
+      BslColorSpace: "sRgb"
+      PixelFormat: "BayerRG8"
+      LUTEnable: True
+      # Image Capture settings
+      ExposureTime: 75000.0
+      Gain: 0.0
+      gamma: 1.0
+      # Video settings
+      AcquisitionFrameRateEnable: True
+      AcquisitionFrameRate: 2.0
+      # Auto settings
+      AutoROIHeight: 3548
+      AutoROIWidth: 3548
+      AutoROIOffsetX: 0
+      AutoROIOffsetY: 4
+      AutoTargetBrightness: 0.5   # Mellem 0.0 og 1.0
+      AutoFunction: "MinimizeGain" # "MinimizeGain", eller "MinimizeExposureTime"
+      ExposureAuto: "Continuous"   # 'Off', 'Once', 'Continuous'
+      AutoExposureTimeLowerLimit: 10000.0
+      AutoExposureTimeUpperLimit: 150000.0
+      GainAuto: "Off"       # Off,' 'Once', 'Continuous'
+      AutoGainLowerLimit: 0
+      AutoGainUpperLimit: 5
+      BalanceWhiteAuto: "Continuous"   # Off,' 'Once', 'Continuous'
+  light_config: &default_light_settings
+    led1: 100 # Strength in 8bit values (0-255)
+    led2: 100 # Strength in 8bit values (0-255)
+    led3: 100 # Strength in 8bit values (0-255
+
+network:
+  camera_switch_mac: "58:d6:1f:7c:65:03"
+  microcontroller_switch_mac: "58:d6:1f:7c:65:03"
+  unifi:
+    host: "https://192.168.1.1:8443"
+    username: "aau"
+    password: "aau" 
+    verify_ssl: false
+
+# named hardware cofigurations for individiual rigs
+setups:
+  any:
+    camera:
+      ip: null
+      switch_port: null
+      serial: null
+      settings: *default_camera_settings
+    microcontroller:
+      ip: 10.42.0.146
+      port: 80
+  
+  rig1:
+    camera:
+      ip: 192.168.1.11
+      switch_port: 1
+      serial: null
+      settings: *default_camera_settings
+    microcontroller:
+      ip: 192.168.1.101
+      switch_port: 2
+      port: 80
+    light:
+      settings: *default_light_settings
+  
+  rig2:
+    camera:
+      ip: 192.168.1.12
+      switch_port: 3
+      serial: null
+      settings: *default_camera_settings
+    microcontroller:
+      switch_port: 4
+      ip: 192.168.1.102
+      port: 80
+    light:
+      settings: *default_light_settings
+  
+  rig3:
+    camera:
+      ip: 192.168.1.13
+      switch_port: 5
+      serial: null
+      settings: *default_camera_settings
+    microcontroller:
+      ip: 192.168.1.103
+      switch_port: 6
+      port: 80
+    light:
+      settings: *default_light_settings
+
+# Named camera configuration presets
+camera_configs:
+  default:
+    <<: *default_camera_settings
+
+  40pAutoExp:
+    <<: *default_camera_settings
+    AutoTargetBrightness: 0.4
+
+  30pAutoExp:
+    <<: *default_camera_settings
+    AutoTargetBrightness: 0.3
+
+  20pAutoExp:
+    <<: *default_camera_settings
+    AutoTargetBrightness: 0.2
+
+  samplecrop: &sample_crop_settings
+    <<: *default_camera_settings
+    Width: 850
+    Height: 850
+
+  sample00:
+    <<: *sample_crop_settings
+    OffsetX: 133
+    OffsetY: 52
+    AutoOffsetX: 258
+    AutoOffsetY: 177
+
+  sample10:
+    <<: *sample_crop_settings
+    OffsetX: 964
+    OffsetY: 36
+    AutoOffsetX: 1089
+    AutoOffsetY: 161
+  
+  sample20:
+    <<: *sample_crop_settings
+    OffsetX: 1807
+    OffsetY: 48
+    AutoOffsetX: 1932
+    AutoOffsetY: 173
+  
+  sample30:
+    <<: *sample_crop_settings
+    OffsetX: 2666
+    OffsetY: 25
+    AutoOffsetX: 2791
+    AutoOffsetY: 150
+  
+  sample01:
+    <<: *sample_crop_settings
+    OffsetX: 156
+    OffsetY: 984
+    AutoOffsetX: 281
+    AutoOffsetY: 1109
+  
+  sample11:
+    <<: *sample_crop_settings
+    OffsetX: 984
+    OffsetY: 991
+    AutoOffsetX: 1109
+    AutoOffsetY: 1116
+  
+  sample21:
+    <<: *sample_crop_settings
+    OffsetX: 1811
+    OffsetY: 984
+    AutoOffsetX: 1936
+    AutoOffsetY: 1109
+  
+  sample31:
+    <<: *sample_crop_settings
+    OffsetX: 2627
+    OffsetY: 941
+    AutoOffsetX: 2752
+    AutoOffsetY: 1066
+  
+  sample02:
+    <<: *sample_crop_settings
+    OffsetX: 140
+    OffsetY: 1815
+    AutoOffsetX: 265
+    AutoOffsetY: 1940
+  
+  sample12:
+    <<: *sample_crop_settings
+    OffsetX: 976
+    OffsetY: 1769
+    AutoOffsetX: 1101
+    AutoOffsetY: 1894
+  
+  sample22:
+    <<: *sample_crop_settings
+    OffsetX: 1800
+    OffsetY: 1757
+    AutoOffsetX: 1925
+    AutoOffsetY: 1882
+  
+  sample32:
+    <<: *sample_crop_settings
+    OffsetX: 2604
+    OffsetY: 1750
+    AutoOffsetX: 2729
+    AutoOffsetY: 1875
+  
+  sample03:
+    <<: *sample_crop_settings
+    OffsetX: 133
+    OffsetY: 2698
+    AutoOffsetX: 258
+    AutoOffsetY: 2823
+  
+  sample13:
+    <<: *sample_crop_settings
+    OffsetX: 968
+    OffsetY: 2698
+    AutoOffsetX: 1093
+    AutoOffsetY: 2823
+  
+  sample23:
+    <<: *sample_crop_settings
+    OffsetX: 1792
+    OffsetY: 2643
+    AutoOffsetX: 1917
+    AutoOffsetY: 2768
+  
+  sample33:
+    <<: *sample_crop_settings
+    OffsetX: 2647
+    OffsetY: 2698
+    AutoOffsetX: 2772
+    AutoOffsetY: 2823
+
+# Named lighting configuration presets
+light_configs:
+  default:
+    <<: *default_light_settings
+
+  lightsOff: 
+    <<: *default_light_settings
+    led1: 0
+    led2: 0
+    led3: 0
+
+  demoLed1Full:
+    <<: *default_light_settings
+    led1: 255
+    led2: 0
+    led3: 0
+
+  demoLed2Full: 
+    <<: *default_light_settings
+    led1: 0
+    led2: 255
+    led3: 0
+
+  demoLed3Full: 
+    <<: *default_light_settings
+    led1: 0
+    led2: 0
+    led3: 255
+
+  demoAll: 
+    <<: *default_light_settings
+    led1: 175
+    led2: 175
+    led3: 175
+
+  demoPair1: 
+    <<: *default_light_settings
+    led1: 175
+    led2: 175
+    led3: 0
+
+  demoPair2: 
+    <<: *default_light_settings
+    led1: 175
+    led2: 0
+    led3: 175
+
+  demoPair3: 
+    <<: *default_light_settings
+    led1: 0
+    led2: 175
+    led3: 175

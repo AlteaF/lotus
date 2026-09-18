@@ -1,0 +1,53 @@
+
+
+ A_0
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/A_0_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/A_0.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/A_0_annotated.mp4      
+
+ A_2
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/A_2_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/A_2.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/A_2_annotated.mp4      
+
+ A_3
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/A_3_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/A_3.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/A_3_annotated.mp4      
+
+ B_0
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/B_0_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/B_0.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/B_0_annotated.mp4      
+
+ B_1
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/B_1_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/B_1.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/B_1_annotated.mp4      
+
+
+B_2
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/B_2_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/B_2.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/B_2_annotated.mp4      
+
+ C_0
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/C_0_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/C_0.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/C_0_annotated.mp4      
+
+
+C_1
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/C_1_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/C_1.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/C_1_annotated.mp4      
+
+
+ C_2
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/C_2_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/C_2.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/C_2_annotated.mp4      
+
+
+ D_0
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/D_0_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/D_0.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/D_0_annotated.mp4      
+
+ D_1
+   python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/D_1_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/D_1.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/D_1_annotated.mp4      
+
+
+D_3
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/D_3_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/D_3.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/D_3_annotated.mp4      
+
+
+E_1
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/E_1_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/E_1.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/E_1_annotated.mp4      
+
+
+E_2
+  python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/E_2_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/E_2.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/E_2_annotated.mp4      
+
+E_3
+   python3 points_on_video.py --video /Users/alteafogh/Documents/AAU/Lotus/timelaspe_experiment/E_3_20260722_20260727_20pAutoExp_lightsOff.mp4 --json /Users/alteafogh/Documents/AAU/Lotus/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/E_3.json --output /Users/alteafogh/Documents/AAU/Lotus/videos/E_3_annotated.mp4      
