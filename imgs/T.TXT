@@ -1,0 +1,188 @@
+Enter sample name (or press Enter to cancel):
+A_0
+  A_0:
+    <<: *sample_crop_settings
+    OffsetX: 161
+    OffsetY: 48
+    AutoOffsetX: 161
+    AutoOffsetY: 48
+Label another crop? (y/n):
+y
+Enter sample name (or press Enter to cancel):
+B_0
+  B_0:
+    <<: *sample_crop_settings
+    OffsetX: 998
+    OffsetY: 68
+    AutoOffsetX: 998
+    AutoOffsetY: 68
+Label another crop? (y/n):
+y
+Enter sample name (or press Enter to cancel):
+C_0
+  C_0:
+    <<: *sample_crop_settings
+    OffsetX: 1814
+    OffsetY: 65
+    AutoOffsetX: 1814
+    AutoOffsetY: 65
+Label another crop? (y/n):
+y
+Enter sample name (or press Enter to cancel):
+D_0
+  D_0:
+    <<: *sample_crop_settings
+    OffsetX: 2701
+    OffsetY: 40
+    AutoOffsetX: 2701
+    AutoOffsetY: 40
+Label another crop? (y/n):
+y
+Enter sample name (or press Enter to cancel):
+B_1
+  B_1:
+    <<: *sample_crop_settings
+    OffsetX: 172
+    OffsetY: 1012
+    AutoOffsetX: 172
+    AutoOffsetY: 1012
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+C_1
+  C_1:
+    <<: *sample_crop_settings
+    OffsetX: 1015
+    OffsetY: 1001
+    AutoOffsetX: 1015
+    AutoOffsetY: 1001
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+D_1
+  D_1:
+    <<: *sample_crop_settings
+    OffsetX: 1820
+    OffsetY: 1026
+    AutoOffsetX: 1820
+    AutoOffsetY: 1026
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+E_1
+  E_1:
+    <<: *sample_crop_settings
+    OffsetX: 2657
+    OffsetY: 944
+    AutoOffsetX: 2657
+    AutoOffsetY: 944
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+E_2
+  E_2:
+    <<: *sample_crop_settings
+    OffsetX: 158
+    OffsetY: 1828
+    AutoOffsetX: 158
+    AutoOffsetY: 1828
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+A_2
+  A_2:
+    <<: *sample_crop_settings
+    OffsetX: 996
+    OffsetY: 1795
+    AutoOffsetX: 996
+    AutoOffsetY: 1795
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+B_2
+  B_2:
+    <<: *sample_crop_settings
+    OffsetX: 1817
+    OffsetY: 1781
+    AutoOffsetX: 1817
+    AutoOffsetY: 1781
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+C_2
+  C_2:
+    <<: *sample_crop_settings
+    OffsetX: 2647
+    OffsetY: 1776
+    AutoOffsetX: 2647
+    AutoOffsetY: 1776
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+D_3
+  D_3:
+    <<: *sample_crop_settings
+    OffsetX: 150
+    OffsetY: 2734
+    AutoOffsetX: 150
+    AutoOffsetY: 2734
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+E_3
+  E_3:
+    <<: *sample_crop_settings
+    OffsetX: 1822
+    OffsetY: 2666
+    AutoOffsetX: 1822
+    AutoOffsetY: 2666
+Label another crop? (y/n):
+Y
+Enter sample name (or press Enter to cancel):
+A_3
+  A_3:
+    <<: *sample_crop_settings
+    OffsetX: 2660
+    OffsetY: 2726
+    AutoOffsetX: 2660
+    AutoOffsetY: 2726
+Label another crop? (y/n):
+
+
+
+
+can you please generate a script that takes an image path, a coordinates.txt file path that has this structure:  with open(output_path, "a") as f:
+        f.write(f"  {sample_name}:\n")
+        f.write(f"    <<: *sample_crop_settings\n")
+        f.write(f"    OffsetX: {x0}\n")
+        f.write(f"    OffsetY: {y0}\n")
+        f.write(f"    AutoOffsetX: {auto_x}\n")
+        f.write(f"    AutoOffsetY: {auto_y}\n")
+        f.write(f"    BoxWidth: {box_w}\n")
+        f.write(f"    BoxHeight: {box_h}\n")
+        f.write(f"    ROIWidth: {roi_w}\n")
+        f.write(f"    ROIHeight: {roi_h}\n")
+        f.write("\n")
+and does the following: 
+
+Here’s the plan for the new script based on your answers:
+Script Overview
+Inputs:
+The script will take:Image path: Path to the original image.
+Coordinates file path: Path to the coordinates.txt file.
+
+It will check if both files exist. If not, it will print an error and exit.
+
+Cropping Logic:
+Use OffsetX, OffsetY, BoxWidth, and BoxHeight from the coordinates file to crop the image.
+
+Output:
+Create a new directory called cropped in the same directory as the image.
+Save each cropped image as {sample_name}.png in the cropped directory.
+
+File Format:
+Cropped images will be saved as .png.
+
+Error Handling:
+If the coordinates are out of bounds or the coordinates file is malformed, the script will print the error and skip that entry.
+

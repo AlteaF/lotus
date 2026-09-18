@@ -1,0 +1,2243 @@
+[
+  {
+    "img": "/data/upload/15/A_0.png",
+    "id": 105,
+    "kp-1": [
+      {
+        "x": 28.58508604206501,
+        "y": 40.43977055449331,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 23.996175908221797,
+        "y": 36.9980879541109,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 27.437858508604208,
+        "y": 28.58508604206501,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 36.233269598470365,
+        "y": 25.334608030592737,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 35.5640535372849,
+        "y": 28.011472275334608,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 27.915869980879542,
+        "y": 13.001912045889103,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 27.724665391969406,
+        "y": 16.826003824091778,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 31.453154875717015,
+        "y": 15.391969407265774,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 25.1434034416826,
+        "y": 18.451242829827915,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 23.709369024856596,
+        "y": 14.818355640535371,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 77.82026768642447,
+        "y": 38.910133843212236,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 72.56214149139579,
+        "y": 40.63097514340344,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 71.89292543021033,
+        "y": 46.17590822179732,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 75.23900573613767,
+        "y": 46.367112810707454,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 79.34990439770554,
+        "y": 25.621414913957935,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 66.82600382409177,
+        "y": 17.01720841300191,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 70.17208413001912,
+        "y": 15.678776290630974,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 85.08604206500956,
+        "y": 20.26768642447419,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 90.34416826003823,
+        "y": 19.59847036328872,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 91.20458891013385,
+        "y": 14.053537284894837,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 85.8508604206501,
+        "y": 15.391969407265774,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 80.40152963671127,
+        "y": 20.172084130019122,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 56.59655831739961,
+        "y": 12.523900573613766,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 59.94263862332696,
+        "y": 9.369024856596559,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 33.269598470363285,
+        "y": 8.030592734225621,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 29.349904397705544,
+        "y": 6.118546845124283,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 25.239005736137663,
+        "y": 8.604206500956023,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 22.466539196940726,
+        "y": 11.18546845124283,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 20.076481835564053,
+        "y": 33.460803059273424,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 16.539196940726576,
+        "y": 43.40344168260038,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 39.866156787762904,
+        "y": 15.678776290630974,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 35.37284894837477,
+        "y": 13.479923518164435,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 31.73996175908222,
+        "y": 12.906309751434033,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 71.22370936902486,
+        "y": 34.13001912045889,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 72.46653919694073,
+        "y": 21.414913957934992,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 94.16826003824092,
+        "y": 35.85086042065009,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 18.06513144801212,
+        "y": 5.50259751002668,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 18.411206763108133,
+        "y": 7.752087058150795,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 23.77537414709641,
+        "y": 40.04091395660923,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 89.51391795259067,
+        "y": 25.990256163710924,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 90.86361168146513,
+        "y": 9.24021091306367,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 88.1988317552258,
+        "y": 10.278436858351723,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 86.0185572701209,
+        "y": 10.589904641938139,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2026-09-15T13:37:44.527469Z",
+    "updated_at": "2026-09-15T13:39:31.861926Z",
+    "lead_time": 154.601
+  },
+  {
+    "img": "/data/upload/15/A_2.png",
+    "id": 106,
+    "kp-1": [
+      {
+        "x": 15.04469393848603,
+        "y": 8.826220443911804,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 13.607089851030699,
+        "y": 10.631583716530129,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 14.576636793733133,
+        "y": 21.53062865863334,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 8.124134726782456,
+        "y": 20.360485796751096,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 19.123477628475573,
+        "y": 14.275742914963411,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 37.81233076539489,
+        "y": 12.637542908328268,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 40.72097159350219,
+        "y": 13.339628625457614,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 31.39326135164085,
+        "y": 18.053632726183235,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 37.143677701462174,
+        "y": 22.801069480105497,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 39.71799199760312,
+        "y": 23.503155197234843,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 42.7937960916936,
+        "y": 24.873893978296906,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 33.56638380942216,
+        "y": 5.549820430641513,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 57.504163498213266,
+        "y": 6.887126558506938,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 66.69814312728806,
+        "y": 24.472702139937276,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 49.88151856938034,
+        "y": 30.25655114295524,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 35.94010218638329,
+        "y": 41.92454710858107,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 28.61835113632009,
+        "y": 45.76930222619417,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 21.196302126666986,
+        "y": 46.003330798570616,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 17.451844968643798,
+        "y": 34.20160422015824,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 36.20756341195638,
+        "y": 49.84808591618371,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 30.691175634511502,
+        "y": 53.62597572740354,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 79.30225338241969,
+        "y": 27.515073580831118,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 78.8341962376668,
+        "y": 37.57830219301844,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 83.92061510664823,
+        "y": 12.538920030583183,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 87.77244021408228,
+        "y": 7.539742763487927,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2026-09-15T13:40:40.833792Z",
+    "updated_at": "2026-09-15T13:40:40.833814Z",
+    "lead_time": 67.084
+  },
+  {
+    "img": "/data/upload/15/A_3.png",
+    "id": 107,
+    "kp-1": [
+      {
+        "x": 23.518164435946463,
+        "y": 62.4282982791587,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 9.751434034416825,
+        "y": 51.33843212237094,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 17.01720841300191,
+        "y": 52.103250478011475,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 23.422562141491397,
+        "y": 76.0038240917782,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 6.21414913957935,
+        "y": 89.5793499043977,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2026-09-15T13:41:09.476666Z",
+    "updated_at": "2026-09-15T13:41:09.476682Z",
+    "lead_time": 26.428
+  },
+  {
+    "img": "/data/upload/15/B_0.png",
+    "id": 108,
+    "kp-1": [
+      {
+        "x": 53.82409177820268,
+        "y": 17.877629063097515,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 45.69789674952199,
+        "y": 14.531548757170173,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 52.00764818355641,
+        "y": 14.91395793499044,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 54.875717017208416,
+        "y": 14.818355640535371,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 35.08604206500956,
+        "y": 12.810707456978967,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 75.4302103250478,
+        "y": 12.1414913957935,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 63.19311663479924,
+        "y": 13.193116634799235,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 86.04206500956023,
+        "y": 8.795411089866157,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 81.64435946462714,
+        "y": 14.91395793499044,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 84.13001912045888,
+        "y": 15.009560229445507,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 88.91013384321224,
+        "y": 22.94455066921606,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 86.80688336520076,
+        "y": 41.20458891013384,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 85.37284894837475,
+        "y": 43.69024856596558,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 83.93881453154876,
+        "y": 48.2791586998088,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 90.1529636711281,
+        "y": 44.93307839388145,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 50.382409177820264,
+        "y": 31.644359464627154,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 49.235181644359464,
+        "y": 22.179732313575524,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 44.74187380497132,
+        "y": 23.996175908221797,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 41.68260038240918,
+        "y": 43.49904397705545,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 28.298279158699806,
+        "y": 47.32313575525813,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 14.340344168260039,
+        "y": 39.5793499043977,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 67.01720841300191,
+        "y": 36.137667304015295,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2026-09-15T13:41:53.407686Z",
+    "updated_at": "2026-09-15T13:42:11.207583Z",
+    "lead_time": 57.989000000000004
+  },
+  {
+    "img": "/data/upload/15/B_2.png",
+    "id": 110,
+    "kp-1": [
+      {
+        "x": 76.48183556405354,
+        "y": 8.317399617590821,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 72.37093690248567,
+        "y": 11.089866156787762,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 75.4302103250478,
+        "y": 22.848948374760994,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 61.95028680688337,
+        "y": 30.30592734225621,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 58.98661567877629,
+        "y": 36.137667304015295,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 55.544933078393875,
+        "y": 21.414913957934992,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 85.56405353728489,
+        "y": 9.655831739961759,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2026-09-15T13:42:39.701041Z",
+    "updated_at": "2026-09-15T13:42:39.701062Z",
+    "lead_time": 21.367
+  },
+  {
+    "img": "/data/upload/15/C_0.png",
+    "id": 111,
+    "kp-1": [
+      {
+        "x": 37.95411089866157,
+        "y": 9.082217973231357,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 44.072657743785854,
+        "y": 9.464627151051626,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 47.51434034416826,
+        "y": 8.98661567877629,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 50.66921606118547,
+        "y": 11.281070745697896,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 45.02868068833652,
+        "y": 13.288718929254303,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 43.21223709369025,
+        "y": 22.753346080305928,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 27.533460803059274,
+        "y": 9.655831739961759,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 24.378585086042065,
+        "y": 9.847036328871893,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 13.575525812619501,
+        "y": 19.407265774378583,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 16.44359464627151,
+        "y": 21.510516252390058,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 12.045889101338432,
+        "y": 15.86998087954111,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 26.481835564053537,
+        "y": 25.1434034416826,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 28.393881453154872,
+        "y": 29.063097514340345,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 23.32695984703633,
+        "y": 27.437858508604208,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 23.80497131931166,
+        "y": 34.22562141491396,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 33.365200764818354,
+        "y": 43.69024856596558,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 67.97323135755258,
+        "y": 11.663479923518166,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 71.89292543021033,
+        "y": 9.560229445506693,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 63.95793499043977,
+        "y": 13.288718929254303,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 74.09177820267686,
+        "y": 6.692160611854685,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 84.79923518164436,
+        "y": 10.133843212237094,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 81.64435946462714,
+        "y": 13.001912045889103,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 81.73996175908222,
+        "y": 19.885277246653917,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 84.51242829827916,
+        "y": 22.65774378585086,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 78.10707456978967,
+        "y": 20.936902485659655,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 80.01912045889101,
+        "y": 24.091778202676863,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 74.8565965583174,
+        "y": 19.02485659655832,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 74.66539196940727,
+        "y": 23.518164435946463,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 70.65009560229446,
+        "y": 36.52007648183556,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 70.65009560229446,
+        "y": 41.68260038240918,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 59.75143403441683,
+        "y": 30.975143403441685,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 63.47992351816444,
+        "y": 34.22562141491396,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 90.91778202676865,
+        "y": 47.32313575525813,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 89.48374760994264,
+        "y": 36.233269598470365,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2026-09-15T13:43:41.521128Z",
+    "updated_at": "2026-09-15T13:44:38.347394Z",
+    "lead_time": 116.37899999999999
+  },
+  {
+    "img": "/data/upload/15/C_1.png",
+    "id": 112,
+    "kp-1": [
+      {
+        "x": 34.608030592734224,
+        "y": 85.75525812619503,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 17.97323135755258,
+        "y": 75.81261950286807,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 16.826003824091778,
+        "y": 84.13001912045888,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 8.795411089866157,
+        "y": 55.831739961759084,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 13.001912045889103,
+        "y": 55.06692160611855,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 12.619502868068832,
+        "y": 52.29445506692161,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 6.8833652007648185,
+        "y": 52.77246653919694,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2026-09-15T13:45:05.051220Z",
+    "updated_at": "2026-09-15T13:45:05.051244Z",
+    "lead_time": 24.058
+  },
+  {
+    "img": "/data/upload/15/C_2.png",
+    "id": 113,
+    "kp-1": [
+      {
+        "x": 27.151051625239003,
+        "y": 15.487571701720842,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 17.97323135755258,
+        "y": 19.694072657743785,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 19.02485659655832,
+        "y": 23.61376673040153,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 38.33652007648183,
+        "y": 18.738049713193117,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 32.504780114722756,
+        "y": 21.03250478011472,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 32.026768642447415,
+        "y": 18.068833652007648,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 26.003824091778206,
+        "y": 27.151051625239003,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 34.894837476099426,
+        "y": 26.76864244741874,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 8.604206500956023,
+        "y": 39.866156787762904,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 41.96940726577438,
+        "y": 33.07839388145315,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 50.66921606118547,
+        "y": 30.78393881453155,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 46.17590822179732,
+        "y": 18.26003824091778,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 47.89674952198853,
+        "y": 16.156787762906312,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 45.98470363288719,
+        "y": 11.663479923518166,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 43.11663479923518,
+        "y": 8.891013384321225,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 43.21223709369025,
+        "y": 12.237093690248566,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 69.69407265774379,
+        "y": 18.451242829827915,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 68.54684512428298,
+        "y": 22.65774378585086,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 68.73804971319312,
+        "y": 26.290630975143404,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 73.23135755258127,
+        "y": 27.055449330783937,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 85.56405353728489,
+        "y": 20.936902485659655,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 83.8432122370937,
+        "y": 26.099426386233272,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 42.44741873804971,
+        "y": 42.44741873804971,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 88.81453154875717,
+        "y": 45.41108986615679,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 13.001912045889103,
+        "y": 11.854684512428298,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 3.9196940726577436,
+        "y": 19.407265774378583,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 95,
+    "created_at": "2026-09-15T13:46:07.636733Z",
+    "updated_at": "2026-09-15T13:46:07.636756Z",
+    "lead_time": 60.405
+  },
+  {
+    "img": "/data/upload/15/E_1.png",
+    "id": 117,
+    "kp-1": [
+      {
+        "x": 10.038240917782026,
+        "y": 54.11089866156787,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 11.663479923518166,
+        "y": 60.7074569789675,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2026-09-15T13:46:43.207642Z",
+    "updated_at": "2026-09-15T13:46:43.207664Z",
+    "lead_time": 17.406
+  },
+  {
+    "img": "/data/upload/15/E_2.png",
+    "id": 118,
+    "kp-1": [
+      {
+        "x": 85.46845124282983,
+        "y": 15.009560229445507,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 78.20267686424475,
+        "y": 22.753346080305928,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 75.23900573613767,
+        "y": 20.172084130019122,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 69.88527724665391,
+        "y": 15.965583173996176,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 63.766730401529635,
+        "y": 29.541108986615676,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 66.4435946462715,
+        "y": 32.98279158699809,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 56.022944550669216,
+        "y": 25.621414913957935,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 52.58126195028681,
+        "y": 21.03250478011472,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 61.281070745697896,
+        "y": 15.391969407265774,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 93.21223709369025,
+        "y": 11.18546845124283,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 84.32122370936902,
+        "y": 11.47227533460803,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 86.32887189292543,
+        "y": 31.07074569789675,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 92.35181644359464,
+        "y": 42.92543021032505,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 46.749521988527725,
+        "y": 39.961759082217974,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 42.35181644359465,
+        "y": 35.37284894837477,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 37.18929254302103,
+        "y": 38.24091778202677,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 34.03441682600382,
+        "y": 37.66730401529637,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 20.84130019120459,
+        "y": 26.577437858508606,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 10.22944550669216,
+        "y": 16.539196940726576,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 9.847036328871893,
+        "y": 47.801147227533455,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 19.407265774378583,
+        "y": 44.35946462715105,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 19.407265774378583,
+        "y": 40.91778202676864,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 24.665391969407267,
+        "y": 9.27342256214149,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 16.826003824091778,
+        "y": 53.059273422562136,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 73.4225621414914,
+        "y": 8.604206500956023,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2026-09-15T13:47:46.274223Z",
+    "updated_at": "2026-09-15T13:47:46.274240Z",
+    "lead_time": 61.972
+  },
+  {
+    "img": "/data/upload/15/E_3.png",
+    "id": 119,
+    "kp-1": [
+      {
+        "x": 81.83556405353728,
+        "y": 7.648183556405354,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 73.04015296367112,
+        "y": 13.09751434034417,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 71.31931166347992,
+        "y": 9.847036328871893,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 18.64244741873805,
+        "y": 26.003824091778206,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 17.78202676864245,
+        "y": 19.02485659655832,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 10.611854684512428,
+        "y": 21.414913957934992,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 13.957934990439771,
+        "y": 23.900573613766728,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 6.022944550669216,
+        "y": 22.94455066921606,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 13.862332695984703,
+        "y": 70.8413001912046,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 10.707456978967496,
+        "y": 74.5697896749522,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 18.833652007648183,
+        "y": 57.55258126195029,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 6.596558317399618,
+        "y": 67.39961759082217,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 8.604206500956023,
+        "y": 65.20076481835564,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 18.35564053537285,
+        "y": 61.85468451242829,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 13.575525812619501,
+        "y": 62.1414913957935,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Barnacle"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      },
+      {
+        "x": 10.133843212237094,
+        "y": 69.50286806883366,
+        "width": 0.19120458891013384,
+        "keypointlabels": [
+          "Starfish"
+        ],
+        "original_width": 800,
+        "original_height": 800
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2026-09-15T13:48:36.601446Z",
+    "updated_at": "2026-09-15T13:48:36.601467Z",
+    "lead_time": 47.021
+  }
+]

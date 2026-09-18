@@ -1,0 +1,24 @@
+{
+  "version": "5.11.2.dev130+g28500572c",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          209.23913043478257,
+          452.7173913043478
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "B_1.png",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 800
+}
