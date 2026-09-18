@@ -208,3 +208,50 @@ sample_01:
 ```
 
 This yaml format can be directly pasted in the camera config settings of the Config.yaml
+
+## get_all_crop_coordinates.py
+
+Modification of get_crop_coordinates that lets you select multiple areas of the image to crop, and saves all coordinates in correct format, with relative label. 
+It saves the coordinates to a txt file called coordinates.txt in the same directory as the image. 
+    -- #TODO: choose the directory to save it in. 
+
+## crop_samples.py 
+Given an image path and filename (currently in if__name__==__main__, to be changed in future), plus the coordinates file path, it crops the image into the correct samples, and saves them in a folder called_cropped_{filename}. each image is called by the name given to the samples in the coordinates file.
+
+-- #TODO: make clearer where the cropped folder is saved. 
+
+## crop_files_generator.py 
+
+GUI with same format as timelapse generator gui, for which we can choose the image folders, the date, the time, and the camera config, and the coordinates path, and it generates a folder per image chosen, with the cropped frames inside, with correct naming conventions (leverages crop_samples logic). additionally you can select the folder with the annotations, and it saves the annotations in the folder together with the cropped samples. 
+
+## overlay_points_on_img.py
+Given either an image or an image folder, and either an annotation file or an annotation folder, (arg_parse commands) it creates a folder in a specified location with annotations overlaid on the image. static annotations for barnacle and starfish. 
+-- # TODO, remove starfish from annotations, as they are moving
+### Arguments:
+#### paths 
+- `json` is the path to the json file or folder with json files.
+- `image` is the path to image file or folder of image files.
+- `output` is the path to where we want to save the output folder 
+
+```bash
+python3 overlay_points_on_img.py --json path/imgs/annotations_f --image path/imgs/cropped_20260722-090232_rig1_20pAutoExp_demoAll.png --output path/imgs/annoptated_images_static_points
+```
+
+
+
+## points_on_video.py
+
+Reads input video, overlays static annotation points, and writes to output_path.
+
+
+### Arguments:
+#### paths 
+- `video` is the path to the video.
+- `json` is the path to the json file.
+- `output` is the path to where we want to save the output folder 
+
+```bash
+  python3 points_on_video.py --video path/timelaspe_experiment/A_0_20260722_20260727_20pAutoExp_lightsOff.mp4 --json path/imgs/cropped_20260720-064736_rig1_default_lightsOff.png/A_0.json --output path/videos/A_0_annotated.mp4      
+
+```
+all my commands for the terminal are in commands_points_on_video.txt (yeah I know )
