@@ -1,0 +1,108 @@
+{
+  "version": "5.11.2.dev130+g28500572c",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          241.8478260869565,
+          202.71739130434784
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          62.5,
+          296.19565217391306
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          57.065217391304316,
+          337.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          62.5,
+          176.6304347826087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          153.80434782608694,
+          270.10869565217394
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          337.1069182389937,
+          50.62893081761006
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          67.92452830188677,
+          97.79874213836477
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "D_3.png",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 800
+}

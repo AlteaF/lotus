@@ -1,27 +1,5 @@
   A_0:
     <<: *sample_crop_settings
-    OffsetX: 163
-    OffsetY: 46
-    AutoOffsetX: 163
-    AutoOffsetY: 46
-    BoxWidth: 800
-    BoxHeight: 800
-    ROIWidth: 800
-    ROIHeight: 800
-
-  A_0:
-    <<: *sample_crop_settings
-    OffsetX: 158
-    OffsetY: 21
-    AutoOffsetX: 158
-    AutoOffsetY: 21
-    BoxWidth: 800
-    BoxHeight: 800
-    ROIWidth: 800
-    ROIHeight: 800
-
-  A_0:
-    <<: *sample_crop_settings
     OffsetX: 161
     OffsetY: 48
     AutoOffsetX: 161

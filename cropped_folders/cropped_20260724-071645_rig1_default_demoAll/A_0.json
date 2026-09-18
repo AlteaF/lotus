@@ -1,0 +1,696 @@
+{
+  "version": "5.11.2.dev130+g28500572c",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          222.28260869565213,
+          233.15217391304347
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          220.10869565217388,
+          316.8478260869565
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          189.67391304347825,
+          296.19565217391306
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          190.76086956521738,
+          326.6304347826087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          130.9782608695652,
+          352.7173913043478
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          220.10869565217388,
+          133.1521739130435
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          201.6304347826087,
+          145.1086956521739
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          290.7608695652174,
+          202.71739130434784
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          287.5,
+          225.54347826086956
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          449.45652173913044,
+          101.63043478260869
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          534.2391304347825,
+          134.23913043478262
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          561.4130434782608,
+          124.45652173913042
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          578.804347826087,
+          170.1086956521739
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          635.3260869565217,
+          210.32608695652175
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          567.9347826086955,
+          276.6304347826087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          580.9782608695652,
+          325.54347826086956
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          624.4565217391305,
+          314.67391304347825
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          599.4565217391305,
+          376.6304347826087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          570.1086956521738,
+          370.10869565217394
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          679.891304347826,
+          161.41304347826087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          641.8478260869565,
+          163.58695652173913
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          723.3695652173913,
+          163.58695652173913
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          734.2391304347825,
+          112.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          680.9782608695652,
+          125.54347826086955
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          688.586956521739,
+          91.84782608695652
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          726.6304347826087,
+          75.54347826086956
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          755.9782608695652,
+          288.5869565217391
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          478.80434782608694,
+          77.71739130434781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          414.6739130434782,
+          82.06521739130434
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          319.0217391304348,
+          126.63043478260867
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          282.0652173913043,
+          110.32608695652173
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          254.89130434782606,
+          127.71739130434783
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          258.15217391304344,
+          102.71739130434781
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          224.45652173913044,
+          103.80434782608695
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          270.1086956521739,
+          63.586956521739125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          195.10869565217388,
+          121.19565217391303
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          162.5,
+          270.10869565217394
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          57.065217391304316,
+          386.4130434782609
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          414.6739130434782,
+          733.1521739130434
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          614.4295302013422,
+          533.5570469798658
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          315.1006711409396,
+          502.6845637583893
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          182.88590604026848,
+          87.91946308724832
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          202.34899328859063,
+          77.18120805369128
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          203.69127516778525,
+          59.73154362416108
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          175.50335570469798,
+          45.63758389261745
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          150.67114093959736,
+          50.33557046979866
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          155.36912751677852,
+          83.22147651006712
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Barnacle",
+      "points": [
+        [
+          125.83892617449663,
+          78.52348993288591
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Starfish",
+      "points": [
+        [
+          676.1744966442952,
+          248.993288590604
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "A_0.png",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 800
+}
